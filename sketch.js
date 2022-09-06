@@ -13,7 +13,7 @@ console.log("this is my first console log!");
 
 
   function draw() {
-background(255,0,255);
+background(139,0,139);
 
 circle(50, 25, 200)  
 circle(250, 250, 150)
